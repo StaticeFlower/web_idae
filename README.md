@@ -1,3 +1,7 @@
+# Web Preview
+Web : https://ideas-six-psi.vercel.app
+Backend Repo : https://github.com/StaticeFlower/server_idae
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
